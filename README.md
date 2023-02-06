@@ -1,9 +1,8 @@
 # IntroduceStudent
-⭐️ App Walk-though
-
- ![](http://www.giphy.com/gifs/zxQclZwLGKlCUcUwn7)
+⭐️ App Walk-though:
 
 
+ ![](https://github.com/ConniceT/IntroduceStudent/blob/main/Gif_introduce.gif)
 
 
 
