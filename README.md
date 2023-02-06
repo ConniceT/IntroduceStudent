@@ -1,5 +1,6 @@
 # IntroduceStudent
 ⭐️ App Walk-though
+ ![](http://www.giphy.com/gifs/zxQclZwLGKlCUcUwn7)
 
 
 
